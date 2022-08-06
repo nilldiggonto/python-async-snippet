@@ -1,0 +1,7 @@
+Yo {{name|safe}}
+
+This the body of the email
+
+{{content|safe}}
+
+Bye
